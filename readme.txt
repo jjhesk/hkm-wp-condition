@@ -1,6 +1,6 @@
 === WP Condition ===
 Contributors: zinger252
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=alisaleem252@gmail.com&currency_code=&amount=&return=&item_name=Donation+for+WP+Condition
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=ooxfordck@gmail.com&currency_code=&amount=&return=&item_name=Donation+for+WP+Condition
 Tags: condition, query, counter, developer, debug, memory, footprint, social graph
 Requires at least: 3.0
 Tested up to: 4.0
